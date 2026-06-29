@@ -1,5 +1,12 @@
+## Project: Build a Smart Helmet Using Arduino
 
-Link to the blog: (will be updated)
+
+### A brief overview of this project:
+
+This project turns a standard motorcycle helmet into a smart safety system using two Arduino Uno boards communicating wirelessly via RF modules. The helmet unit monitors whether the rider is wearing the helmet and checks for alcohol consumption using an MQ-3 sensor. If all safety conditions pass, a signal is sent to the motorcycle unit, which enables the ignition relay. No helmet, no ride.
+
+
+- Link to the detailed blog: (will be updated)
 
 ---
 
